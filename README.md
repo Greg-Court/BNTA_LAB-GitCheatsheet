@@ -51,8 +51,9 @@
 4. go to github, create repository, and copy git remote add origin git@github.com… paste that into terminal in local repository
 5. git push origin main
 
-
-
+## Ignoring files
+1. touch .gitignore file
+2. git config --global core.excludesFile ~/.gitignore
 
 # Markdown
 
