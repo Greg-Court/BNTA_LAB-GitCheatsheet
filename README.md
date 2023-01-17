@@ -54,6 +54,10 @@
 ## Ignoring files
 1. touch .gitignore file
 2. git config --global core.excludesFile ~/.gitignore
+3. echo filename into .gitignore
+4. add .gitignore to staging area
+5. commit changes
+6. push origin main
 
 # Markdown
 
